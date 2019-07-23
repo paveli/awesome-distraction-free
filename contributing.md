@@ -6,6 +6,10 @@ project you agree to abide by its terms.
 
 ---
 
+## Only awesome is awesome
+
+Research if the stuff you're including is actually awesome. Only put stuff on the list that you or another contributor can personally recommend. You should rather leave stuff out than include too much.
+
 Ensure your pull request adheres to the following guidelines:
 
 - Ensure the tool you are adding is distraction-free by it's nature
