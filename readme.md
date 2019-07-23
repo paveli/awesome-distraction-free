@@ -1,6 +1,15 @@
 # Awesome Distraction-Free [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of distraction-free tools
+> A curated list of distraction-free tools.
+
+Distraction-free tools selected in this list are _designed to_:
+
+- remove unwanted distractions
+- increase concentration
+- increase productivity
+- motivate to achieve the goals
+
+These tools may be used by creative persons like writers, journalists, programmers, marketers, students to increase their productivity.
 
 ## Contents
 
@@ -12,18 +21,20 @@
 
 ## Writing
 
-Distraction-free writing tools
+Distraction-free text editors (writing, journaling and note taking tools).
+These writing apps help to stay focused while writing texts.
 
-| Name                                            | Description             | Platform                                | License            | Price                       |
-| ----------------------------------------------- | ----------------------- | --------------------------------------- | ------------------ | --------------------------- |
-| [Calmly](https://www.calmlywriter.com)          | Markdown editor         | Web, ChromeOS                           | proprietary        | free                        |
-| [Draft](https://draftin.com)                    | Markdown editor         | Web                                     | proprietary        | free                        |
-| [Flow Writer](https://flow-writer.com)          | Typewriter-mode writing | Web                                     | opensource (GPLv3) | free                        |
-| [FocusWriter](https://gottcode.org/focuswriter) | Text editor             | Windows, Linux                          | opensource (GPLv3) | free                        |
-| [iA Writer](https://ia.net/writer)              | Markdown editor         | Windows, Mac, iOS (iPhone/iPad), Adroid | proprietary        | US\$9.99 - 29.99            |
-| [Ulysses](https://ulysses.app)                  | Markdown editor         | Mac, iOS (iPhone/iPad)                  | proprietary        | Subscribtion US\$39.99/year |
-| [Write!](https://writeapp.co/)                  | Markdown editor         | Windows                                 | proprietary        | US\$24.95                   |
-| [Writemonkey](https://writemonkey.com)          | Text editor             | Windows                                 | proprietary        | free                        |
+| Name                                            | Description             | Platform                                | License             | Price                       |
+| ----------------------------------------------- | ----------------------- | --------------------------------------- | ------------------- | --------------------------- |
+| [Calmly](https://www.calmlywriter.com)          | Markdown editor         | Web, ChromeOS                           | proprietary         | free                        |
+| [Draft](https://draftin.com)                    | Markdown editor         | Web                                     | proprietary         | free                        |
+| [Flow Writer](https://flow-writer.com)          | Typewriter-mode writing | Web                                     | opensource (GPLv3)  | free                        |
+| [FocusWriter](https://gottcode.org/focuswriter) | Text editor             | Windows, Linux                          | opensource (GPLv3)  | free                        |
+| [iA Writer](https://ia.net/writer)              | Markdown editor         | Windows, Mac, iOS (iPhone/iPad), Adroid | proprietary         | US\$9.99 - 29.99            |
+| [LiteWrite](https://litewrite.net)              | Text editor             | Web                                     | opensource (AGPLv3) | free                        |
+| [Ulysses](https://ulysses.app)                  | Markdown editor         | Mac, iOS (iPhone/iPad)                  | proprietary         | Subscribtion US\$39.99/year |
+| [Write!](https://writeapp.co/)                  | Markdown editor         | Windows                                 | proprietary         | US\$24.95                   |
+| [Writemonkey](https://writemonkey.com)          | Text editor             | Windows                                 | proprietary         | free                        |
 
 ## Web browsing
 
@@ -58,7 +69,7 @@ Distraction-free web browsing tools
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+✏️ Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## License
 
