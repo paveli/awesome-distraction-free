@@ -36,6 +36,13 @@ These writing apps help to stay focused while writing texts.
 | [Write!](https://writeapp.co/)                  | Markdown editor         | Windows                                 | proprietary         | US\$24.95                   |
 | [Writemonkey](https://writemonkey.com)          | Text editor             | Windows                                 | proprietary         | free                        |
 
+### Modern typewriters
+
+| Name                                                       | Description                           | Platform         | License     | Price                   |
+| ---------------------------------------------------------- | ------------------------------------- | ---------------- | ----------- | ----------------------- |
+| [AlphaSmart Neo](https://en.wikipedia.org/wiki/AlphaSmart) | Portable word-processing keyboard     | Hardware product | proprietary | ~US\$25-50 (see Amazon) |
+| [Freewrite](https://getfreewrite.com)                      | E-ink, mechanical keyboard typewriter | Hardware product | proprietary | US\$549.00              |
+
 ## Web browsing
 
 Distraction-free web browsing tools
