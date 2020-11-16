@@ -51,7 +51,7 @@ Distraction-free web browsing tools
 | --------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------- | ----------- | ------------ |
 | [Facebook Demetricator](https://bengrosser.com/projects/facebook-demetricator/)   | A web browser extension that hides all the metrics on Facebook  | Google Chrome | proprietary | free         |
 | [Focus](https://heyfocus.com)                                                     | Website and application blocker                                 | Mac           | proprietary | US\$19 - 129 |
-| [Just Focus](https://www.justfocus.co)                                            | Block distracting websites                                      | Google Chrome | proprietary | free         |
+| [Just Focus](https://chrome.google.com/webstore/detail/just-focus/gefaddaengbodpiobpbgblajdboalmgc)                                            | Block distracting websites                                      | Google Chrome | proprietary | free         |
 | [Instagram Demetricator](https://bengrosser.com/projects/instagram-demetricator/) | A web browser extension that hides all the metrics on Instagram | Google Chrome | proprietary | free         |
 | [Go Fucking Work](https://gofuckingwork.com)                                      | Uses profanity for extra motivation (18+).                      | Google Chrome | proprietary | free         |
 | [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/)     | A web browser extension that hides all the metrics on Twitter   | Google Chrome | proprietary | free         |
