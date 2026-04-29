@@ -32,6 +32,7 @@ These writing apps help to stay focused while writing texts.
 | [FocusWriter](https://gottcode.org/focuswriter) | Text editor             | Windows, Linux                          | opensource (GPLv3)  | free                        |
 | [iA Writer](https://ia.net/writer)              | Markdown editor         | Windows, Mac, iOS (iPhone/iPad), Adroid | proprietary         | US\$9.99 - 29.99            |
 | [LiteWrite](https://litewrite.net)              | Text editor             | Web                                     | opensource (AGPLv3) | free                        |
+| [qnote](https://github.com/Omibranch/qnote)    | Minimal frameless notepad with Markdown, PDF export, and OCR | Linux         | opensource (MIT)    | free                        |
 | [Ulysses](https://ulysses.app)                  | Markdown editor         | Mac, iOS (iPhone/iPad)                  | proprietary         | Subscribtion US\$39.99/year |
 | [Write!](https://writeapp.co/)                  | Markdown editor         | Windows                                 | proprietary         | US\$24.95                   |
 | [Writemonkey](https://writemonkey.com)          | Text editor             | Windows                                 | proprietary         | free                        |
