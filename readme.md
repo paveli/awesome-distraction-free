@@ -18,6 +18,7 @@ These tools may be used by creative persons like writers, journalists, programme
 - [Notifications](#notifications)
 - [Sounds](#sounds)
 - [Time tracking](#time-tracking)
+- [Mobile app blockers](#mobile-app-blockers)
 
 ## Writing
 
@@ -76,6 +77,15 @@ Distraction-free web browsing tools
 | [Be Focused](https://xwavesoft.com/be-focused-pro-for-iphone-ipad-mac-os-x.html) | Pomodoro tracker with simple task manager | Mac, iOS (iPhone, iPad) | proprietary | US\$1.99 - 4.99 |
 | [Pomodoro-Tracker](https://pomodoro-tracker.com/)                                | Pomodoro tracker with simple task manager | Web, Mac                | proprietary | free - US\$4.99 |
 | [Timing](https://timingapp.com/)                                                 | Observes and categorizes your activities  | Mac                     | proprietary | US\$39 - 99     |
+
+
+## Mobile app blockers
+
+Phone and tablet apps that block distracting apps or feeds while keeping messaging usable.
+
+| Name | Description | Platform | License | Price |
+| ----------------------------------------------- | ----------------------- | --------------------------------------- | ------------------- | --------------------------- |
+| [Ripple](https://ripplefocus.github.io/) | Local-first focus and parental control app. Blocks Shorts, Reels, and Channels. Android Device Owner uninstall lock and monotonic clock. iOS 16+ FamilyControls with denyAppRemoval and parent unlock code. | Android, iOS 16+ | proprietary | free |
 
 ## Contribute
 
